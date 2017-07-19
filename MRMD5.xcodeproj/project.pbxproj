@@ -15,6 +15,10 @@
 		67C052D71F1EFFD700CA32CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67C052D51F1EFFD700CA32CC /* LaunchScreen.storyboard */; };
 		67C052E51F1F075D00CA32CC /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 67C052E41F1F075D00CA32CC /* NSString+MD5.m */; };
 		67C052E71F1F089800CA32CC /* MRMD5.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 67C052E61F1F089800CA32CC /* MRMD5.podspec */; };
+		67C052EC1F1F0D7900CA32CC /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 67C052E81F1F0D7900CA32CC /* 1.png */; };
+		67C052ED1F1F0D7900CA32CC /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 67C052E91F1F0D7900CA32CC /* 2.png */; };
+		67C052EE1F1F0D7900CA32CC /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 67C052EA1F1F0D7900CA32CC /* 3.png */; };
+		67C052EF1F1F0D7900CA32CC /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 67C052EB1F1F0D7900CA32CC /* 4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +35,10 @@
 		67C052E31F1F075D00CA32CC /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
 		67C052E41F1F075D00CA32CC /* NSString+MD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MD5.m"; sourceTree = "<group>"; };
 		67C052E61F1F089800CA32CC /* MRMD5.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MRMD5.podspec; sourceTree = "<group>"; };
+		67C052E81F1F0D7900CA32CC /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		67C052E91F1F0D7900CA32CC /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		67C052EA1F1F0D7900CA32CC /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		67C052EB1F1F0D7900CA32CC /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +78,10 @@
 				67C052CD1F1EFFD700CA32CC /* ViewController.h */,
 				67C052CE1F1EFFD700CA32CC /* ViewController.m */,
 				67C052D01F1EFFD700CA32CC /* Main.storyboard */,
+				67C052E81F1F0D7900CA32CC /* 1.png */,
+				67C052E91F1F0D7900CA32CC /* 2.png */,
+				67C052EA1F1F0D7900CA32CC /* 3.png */,
+				67C052EB1F1F0D7900CA32CC /* 4.png */,
 				67C052D31F1EFFD700CA32CC /* Assets.xcassets */,
 				67C052D51F1EFFD700CA32CC /* LaunchScreen.storyboard */,
 				67C052D81F1EFFD700CA32CC /* Info.plist */,
@@ -154,10 +166,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67C052ED1F1F0D7900CA32CC /* 2.png in Resources */,
 				67C052D71F1EFFD700CA32CC /* LaunchScreen.storyboard in Resources */,
 				67C052D41F1EFFD700CA32CC /* Assets.xcassets in Resources */,
 				67C052E71F1F089800CA32CC /* MRMD5.podspec in Resources */,
+				67C052EF1F1F0D7900CA32CC /* 4.png in Resources */,
 				67C052D21F1EFFD700CA32CC /* Main.storyboard in Resources */,
+				67C052EE1F1F0D7900CA32CC /* 3.png in Resources */,
+				67C052EC1F1F0D7900CA32CC /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
